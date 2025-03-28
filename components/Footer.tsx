@@ -51,7 +51,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-semibold text-white">Support</h3>
             <ul className="mt-3 space-y-2">
-              {["Help Center", "Terms & Conditions", "Privacy Policy"].map(
+              {["Help Centre", "Terms & Conditions", "Privacy Policy"].map(
                 (text, index) => (
                   <li key={index}>
                     <a
